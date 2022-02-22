@@ -27,7 +27,7 @@ In order to create new strategies we could see bellow graph wich will help us to
 
 ## Summary
 
-Based on last information I propouse bellow strategies: 
+Based on last information we propouse bellow strategies: 
 
 1. To create a marketing campaing focus on suburban and rural cities, based on their needs and trying to help in little day by day struggles that PyBer could solved as little deliveries for local businesses or or shared rides with other locals. 
 2. Create an attachement campaing for Urban cities so PyBer could be fastly positioned in the best rated app and getting more attached clients that only use this platform. 
